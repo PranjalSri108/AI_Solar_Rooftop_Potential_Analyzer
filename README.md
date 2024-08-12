@@ -41,6 +41,8 @@ Our project automates the process of identifying suitable rooftops for solar pan
 - Integration of real-time solar irradiance data for location-specific energy potential calculations
 - Interactive visualization of results, including 3D renderings of optimal solar panel placements
 
+![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/collage.jpg?raw=true)
+
 ## 🌍 Social Impact
 
 This project addresses several key aspects of sustainable urban development and renewable energy adoption:
