@@ -14,7 +14,7 @@ Assessing the solar potential of individual buildings in large urban areas is a 
 
 Our project automates the process of identifying suitable rooftops for solar panel installation, estimating energy generation potential, and visualizing results through an intuitive web interface. This aims to accelerate the adoption of solar energy in urban areas by making rooftop solar potential assessment more accessible, accurate, and cost-effective.
 
-[YouTube Video](https://youtu.be/8qsHw_L1gZU)
+### Working Video: [YouTube Video](https://youtu.be/8qsHw_L1gZU)
 
 ## 🛠️ Technical Details
 
