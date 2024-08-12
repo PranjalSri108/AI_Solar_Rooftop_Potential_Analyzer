@@ -4,7 +4,7 @@
 
 The Rooftop Solar Potential Analyzer is an innovative web application that leverages advanced computer vision and deep learning techniques to assess the solar energy generation potential of building rooftops from satellite imagery. This tool provides accurate and actionable insights for urban planners, homeowners, and solar energy companies.
 
-![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/web_page.jpg?raw=true)
 
 ### 🎯 Problem Statement
 
@@ -45,7 +45,7 @@ Our project automates the process of identifying suitable rooftops for solar pan
 - Integration of real-time solar irradiance + monthly avg temperature data for location-specific energy potential calculations
 - Interactive visualization of results, using interactive graphs and plots. 
 
-![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/collage.jpg?raw=true)
+![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/graphs.jpg?raw=true)
 
 ---
 
