@@ -26,7 +26,7 @@ Our project automates the process of identifying suitable rooftops for solar pan
 
 2. **Roof Characteristic Analysis**: Custom-designed Vision Transformer (ViT) model extracts key roof features such as orientation and usable area.
 
-3. **Solar Potential Calculation**: Integration of roof characteristics with location-specific solar irradiance data using a physics-based model to estimate annual solar energy generation potential.
+3. **Solar Potential Calculation**: Integration of roof characteristics with location-specific solar irradiance + monthly average temperature data using a physics-based model to estimate annual solar energy generation potential.
 
 4. **Web Application**: User-friendly Streamlit interface allowing users to upload satellite images and receive detailed solar potential reports.
 
@@ -42,8 +42,8 @@ Our project automates the process of identifying suitable rooftops for solar pan
 ### Unique Features
 
 - Use of Vision Transformer for roof characteristic extraction, enabling more accurate detection
-- Integration of real-time solar irradiance data for location-specific energy potential calculations
-- Interactive visualization of results, including 3D renderings of optimal solar panel placements
+- Integration of real-time solar irradiance + monthly avg temperature data for location-specific energy potential calculations
+- Interactive visualization of results, using interactive graphs and plots. 
 
 ![alt text](https://github.com/PranjalSri108/AI_Solar_Rooftop_Potential_Analyzer/blob/main/collage.jpg?raw=true)
 
