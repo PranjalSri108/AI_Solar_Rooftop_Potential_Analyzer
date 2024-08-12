@@ -18,7 +18,7 @@ Our project automates the process of identifying suitable rooftops for solar pan
 
 1. **Building Footprint Extraction**: U-Net architecture implemented in PyTorch for precise semantic segmentation of satellite imagery to identify building outlines.
 
-2. **Roof Characteristic Analysis**: Custom-designed Vision Transformer (ViT) model extracts key roof features such as slope, orientation, and usable area.
+2. **Roof Characteristic Analysis**: Custom-designed Vision Transformer (ViT) model extracts key roof features such as orientation and usable area.
 
 3. **Solar Potential Calculation**: Integration of roof characteristics with location-specific solar irradiance data using a physics-based model to estimate annual solar energy generation potential.
 
